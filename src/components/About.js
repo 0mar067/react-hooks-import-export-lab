@@ -12,3 +12,4 @@ function About() {
   );
 }
 export default About;
+// for the About component, import the image variable from the user.js file
